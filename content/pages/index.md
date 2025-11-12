@@ -15,7 +15,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome to my portfolio website!
-    subtitle: 'My name is Leo '
+    subtitle: ''
     styles:
       self:
         height: auto
