@@ -46,7 +46,7 @@
             "url": "/images/logo.png",
             "altText": "altText of the image",
             "caption": "",
-            "elementId": ""
+            "elementId": "header-logo"
         }
     },
     "footer": {
