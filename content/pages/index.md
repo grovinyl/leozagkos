@@ -14,7 +14,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'My name is Leo and I am a '
+    title: Welcome to my portfolio website!
     subtitle: 'My name is Leo '
     styles:
       self:
