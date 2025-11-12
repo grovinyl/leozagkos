@@ -79,7 +79,7 @@
             "email": "leon.zagkos@gmail.com",
             "emailAltText": "My email",
             "address": "Orlando, Florida",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
