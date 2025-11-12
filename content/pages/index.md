@@ -34,6 +34,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      test
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
