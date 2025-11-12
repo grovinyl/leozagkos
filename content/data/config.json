@@ -44,7 +44,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.png",
-            "altText": "altText of the image",
+            "altText": "Mountain with text \"Leo Zagkos\" in front",
             "caption": "",
             "elementId": "header-logo"
         }
