@@ -4,7 +4,8 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-2.jpg
+  url: >-
+    /images/beautiful-forest-panoramic-realistic-neon-vivid-background-landscape-purple-trees-pine-in-mist-design-mystery-fog-in-park-sunset-concept-nature-beauty-tourism-web-banner-free-vector.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
